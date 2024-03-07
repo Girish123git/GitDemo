@@ -11,7 +11,7 @@ public class Student {
 	student.add("Ram");
 	student.add("shyam");
 	System.out.println(student);
-		
+	System.out.println(student);	
 		
 		
 		
