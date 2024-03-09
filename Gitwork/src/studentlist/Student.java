@@ -9,10 +9,10 @@ public class Student {
 	ArrayList<String> student =new ArrayList<String>();	
 		
 	student.add("Ram");
-	student.add("shyam");
+	student.add("kiran");
 	System.out.println(student);
 	System.out.println(student);	
-		
+	
 		
 		
 		
